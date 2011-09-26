@@ -1,0 +1,18 @@
+*PRIPR
+D DATNAL
+A K1 C 1 0
+A K2 C 1 0
+A K3 C 2 0
+A K4 C 2 0
+
+*PSUBAN
+A K1 C 1 0
+A K2 C 1 0
+A K3 C 2 0
+A K4 C 2 0
+
+*SUBAN
+A K1 C 1 0
+A K2 C 1 0
+A K3 C 2 0
+A K4 C 2 0
